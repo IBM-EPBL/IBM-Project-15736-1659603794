@@ -3,7 +3,7 @@ Global Sales Data Analytics
 
 Team:
 
- 1. SARVESH V (TEAM LEADER)
+ 1. SARVESH V (TEAM LEAD)
  2. YUVARAJ S
  3. MANIKANDAN K
  4. KANDASAMY S
