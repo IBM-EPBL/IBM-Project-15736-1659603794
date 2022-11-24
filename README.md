@@ -9,4 +9,4 @@ Team:
  4. KANDASAMY S
 
 
-To view our video [click here](https://drive.google.com/file/d/1Hl6Z3hFj_JvnTFnKvydAjGjqZIMTw3xk/view?usp=share_link**)
+To view our demo video [click here](https://drive.google.com/file/d/1Hl6Z3hFj_JvnTFnKvydAjGjqZIMTw3xk/view?usp=share_link**)
